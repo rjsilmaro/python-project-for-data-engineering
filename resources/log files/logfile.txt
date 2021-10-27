@@ -1,0 +1,18 @@
+2021-Oct-27-17:09:14,
+
+2021-Oct-27-17:09:14,ETL Job for Personal Details Started 
+2021-Oct-27-17:09:14,Extract phase Started
+2021-Oct-27-17:09:14,Extract phase Ended
+2021-Oct-27-17:09:14,Transform phase Started
+2021-Oct-27-17:09:14,Transform phase Ended
+2021-Oct-27-17:09:14,Load phase Started
+2021-Oct-27-17:09:14,Load phase Ended
+2021-Oct-27-17:09:14,ETL Job for Personal Details Ended
+2021-Oct-27-17:09:14,ETL Job for Dealership Started 
+2021-Oct-27-17:09:14,Extract phase Started
+2021-Oct-27-17:09:14,Extract phase Ended
+2021-Oct-27-17:09:14,Transform phase Started
+2021-Oct-27-17:09:14,Transform phase Ended
+2021-Oct-27-17:09:14,Load phase Started
+2021-Oct-27-17:09:14,Load phase Ended
+2021-Oct-27-17:09:14,ETL Job for Dealership Ended
