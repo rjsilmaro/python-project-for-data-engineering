@@ -16,3 +16,57 @@
 2021-Oct-27-17:09:14,Load phase Started
 2021-Oct-27-17:09:14,Load phase Ended
 2021-Oct-27-17:09:14,ETL Job for Dealership Ended
+2021-Oct-30-17:57:07,
+
+2021-Oct-30-17:57:07,ETL Job for Personal Details Started 
+2021-Oct-30-17:57:07,Extract phase Started
+2021-Oct-30-17:57:07,Extract phase Ended
+2021-Oct-30-17:57:07,Transform phase Started
+2021-Oct-30-17:57:07,Transform phase Ended
+2021-Oct-30-17:57:07,Load phase Started
+2021-Oct-30-17:57:07,Load phase Ended
+2021-Oct-30-17:57:07,ETL Job for Personal Details Ended
+2021-Oct-30-17:57:07,ETL Job for Dealership Started 
+2021-Oct-30-17:57:07,Extract phase Started
+2021-Oct-30-17:57:07,Extract phase Ended
+2021-Oct-30-17:57:07,Transform phase Started
+2021-Oct-30-17:57:07,Transform phase Ended
+2021-Oct-30-17:57:07,Load phase Started
+2021-Oct-30-17:57:08,Load phase Ended
+2021-Oct-30-17:57:08,ETL Job for Dealership Ended
+2021-Oct-30-17:57:35,
+
+2021-Oct-30-17:57:35,ETL Job for Personal Details Started 
+2021-Oct-30-17:57:35,Extract phase Started
+2021-Oct-30-17:57:35,Extract phase Ended
+2021-Oct-30-17:57:35,Transform phase Started
+2021-Oct-30-17:57:35,Transform phase Ended
+2021-Oct-30-17:57:35,Load phase Started
+2021-Oct-30-17:57:35,Load phase Ended
+2021-Oct-30-17:57:35,ETL Job for Personal Details Ended
+2021-Oct-30-17:57:35,ETL Job for Dealership Started 
+2021-Oct-30-17:57:35,Extract phase Started
+2021-Oct-30-17:57:35,Extract phase Ended
+2021-Oct-30-17:57:35,Transform phase Started
+2021-Oct-30-17:57:35,Transform phase Ended
+2021-Oct-30-17:57:35,Load phase Started
+2021-Oct-30-17:57:35,Load phase Ended
+2021-Oct-30-17:57:35,ETL Job for Dealership Ended
+2021-Oct-30-17:59:04,
+
+2021-Oct-30-17:59:04,ETL Job for Personal Details Started 
+2021-Oct-30-17:59:04,Extract phase Started
+2021-Oct-30-17:59:04,Extract phase Ended
+2021-Oct-30-17:59:04,Transform phase Started
+2021-Oct-30-17:59:04,Transform phase Ended
+2021-Oct-30-17:59:04,Load phase Started
+2021-Oct-30-17:59:04,Load phase Ended
+2021-Oct-30-17:59:04,ETL Job for Personal Details Ended
+2021-Oct-30-17:59:04,ETL Job for Dealership Started 
+2021-Oct-30-17:59:04,Extract phase Started
+2021-Oct-30-17:59:04,Extract phase Ended
+2021-Oct-30-17:59:04,Transform phase Started
+2021-Oct-30-17:59:04,Transform phase Ended
+2021-Oct-30-17:59:04,Load phase Started
+2021-Oct-30-17:59:04,Load phase Ended
+2021-Oct-30-17:59:04,ETL Job for Dealership Ended
